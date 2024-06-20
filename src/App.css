@@ -20,10 +20,14 @@
     margin-top: 2rem;
 }
 
-.movie {
+.movie, .movieList, .mapPractice {
     padding: 1rem;
     border: 1px solid gainsboro;
     border-radius: 1rem;
+}
+
+h2, p, blockquote {
+    color: #381a1a;
 }
 
 .movie:nth-child(even) {
